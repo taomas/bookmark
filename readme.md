@@ -34,6 +34,7 @@
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [weex文档](https://weex-project.io/cn/guide/)
 - [正则表达式语法](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions#special-word)
+- [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 - rxjs
   - [RxJS 入门指引和初步应用](https://github.com/xufei/blog/issues/44)
 - leetcode
